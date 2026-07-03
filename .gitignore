@@ -1,0 +1,14 @@
+# before git add .
+# comments
+
+# Ignore specific file
+test.txt
+
+# Ignore all ts files
+# *.ts
+
+# Ignore folder
+foldername
+node_module
+
+.env
